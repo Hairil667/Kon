@@ -18,4 +18,4 @@ jobs:
 
       - name: Extract ZIP file
         run: |
-          unzip DANA-NEW.zip -d extracted_files/
+          unzip DANA-NEW.zip 
